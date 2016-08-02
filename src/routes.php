@@ -1,6 +1,4 @@
 <?php
 
 
-Route::get('fms',function(){
-   return 'good bye';
-});
+Route::get('fms', 'Mithredate\\FMS\\TestController@index');

@@ -1,5 +1,7 @@
 <?php
 
+namespace Mithredate\FMS;
+
 use App\Http\Controllers\Controller;
 
 
